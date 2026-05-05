@@ -48,6 +48,7 @@ This project solves that by:
 
 ### 📈 Category-wise Spending
 ![Category Chart](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/category_chart.png?raw=true)
+
 ---
 
 ### 📊 Monthly Spending Trend
@@ -62,7 +63,6 @@ This project solves that by:
 
 ### 📉 Daily Spending Trend
 ![Daily Trend](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/daily_trend.png?raw=true)
-
 
 ## 📈 Learning Outcomes
 
