@@ -44,20 +44,25 @@ This project solves that by:
 
 ---
 
-## 📊 Visualizations
+## 📊 Visual Outputs
 
-### Category-wise Spending
+### 📈 Category-wise Spending
 ![Category Chart](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/category_chart.png?raw=true)
 
-### Monthly Trend
+---
+
+### 📊 Monthly Spending Trend
 ![Monthly Trend](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/monthly_trend.png?raw=true)
 
-### Payment Analysis
+---
+
+### 💳 Payment Method Distribution
 ![Payment Pie Chart](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/payment_pie.png?raw=true)
 
-### Daily Spending Trend
-![Daily Trend](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/daily_trend.png?raw=true)
+---
 
+### 📉 Daily Spending Trend
+![Daily Trend](https://github.com/YOUR_USERNAME/personal-expense-tracker-visualization/blob/main/images/daily_trend.png?raw=true)
 
 
 ## 📈 Learning Outcomes
